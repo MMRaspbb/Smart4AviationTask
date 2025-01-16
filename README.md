@@ -4,10 +4,10 @@ Make sure to have Java 17 or newer version installed.
 ### Windows
 Navigate to your directory where the repository was cloned. \
 If you are using standard command line use: \
-<mark>gradlew run < path_to_input_file.txt<\mark> \
+```gradlew run < path_to_input_file.txt``` \
 If you are using PowerShell use either: \
-<mark>./gradlew run  and than input your data by hand<\mark> \
+```./gradlew run  and than input your data by hand``` \
 or use: \
-<mark>Get-Content path_to_input_file.txt | ./gradlew run<\mark>
+```Get-Content path_to_input_file.txt | ./gradlew run```
 ### Linux/OS use:
-<mark>./gradlew run < path_to_input_file.txt<\mark>
+```./gradlew run < path_to_input_file.txt```
