@@ -9,5 +9,5 @@ If you are using PowerShell use either: \
 ```./gradlew run  and than input your data by hand``` \
 or use: \
 ```Get-Content path_to_input_file.txt | ./gradlew run```
-### Linux/OS use:
+### Linux/macOS:
 ```./gradlew run < path_to_input_file.txt```
